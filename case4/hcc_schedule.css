@@ -4,10 +4,14 @@
    Case Problem 4
 
    Schedule Table Style Sheet
-   Author: 
-   Date:   
+   Author: Aspen and Bethany
+   Date:   11/29/18
 
    Filename:         hcc_schedule.css
    Supporting Files: 
 
 */
+table, table td, table th {
+	border: 5px solid black;
+	border-collapse: separate;
+}
